@@ -2,7 +2,7 @@
 ### Erik Muller jan 2020.
 python code to form input image set, build CNN and run CNN prediction on an input image.
 
-### Dependencies (for detector.py / CNN_helper.py):
+#### Dependencies (for detector.py / CNN_helper.py):
 + cv2 (openCV)
 + Tensorflow
 + numpy
