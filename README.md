@@ -42,8 +42,8 @@ Additional dependencies (for make_imageset.py, train_abyss_CNN.py)
   CNN_helper also contains an imageSize variable, this size must match the model
   otherwise an error will be generated.
 
-  EXAMPLE:
-  Python detector.py good/G0055569.JPG
+  EXAMPLE: Python detector.py good/G0055569.JPG
+
 ------
 ------
 
